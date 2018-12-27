@@ -1,0 +1,7 @@
+E:\Diogo\Área de Trabalho\Cursos\C#\AulaHeranca\AulaHeranca\bin\Debug\AulaHeranca.exe.config
+E:\Diogo\Área de Trabalho\Cursos\C#\AulaHeranca\AulaHeranca\bin\Debug\AulaHeranca.exe
+E:\Diogo\Área de Trabalho\Cursos\C#\AulaHeranca\AulaHeranca\bin\Debug\AulaHeranca.pdb
+E:\Diogo\Área de Trabalho\Cursos\C#\AulaHeranca\AulaHeranca\obj\Debug\AulaHeranca.csprojResolveAssemblyReference.cache
+E:\Diogo\Área de Trabalho\Cursos\C#\AulaHeranca\AulaHeranca\obj\Debug\AulaHeranca.csproj.CoreCompileInputs.cache
+E:\Diogo\Área de Trabalho\Cursos\C#\AulaHeranca\AulaHeranca\obj\Debug\AulaHeranca.exe
+E:\Diogo\Área de Trabalho\Cursos\C#\AulaHeranca\AulaHeranca\obj\Debug\AulaHeranca.pdb
